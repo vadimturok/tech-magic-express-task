@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
+* [Usage](#usage)
 * [Project Status](#project-status)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -32,6 +33,10 @@ npm install
 ```
 npm start
 ```
+
+## Usage
+Follow provided link to get API documentation for this project:\
+https://documenter.getpostman.com/view/14495830/2s93eX2Yvk
 
 
 ## Project Status
